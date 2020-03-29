@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactLifecyle/static/css/main.266173d9.chunk.css",
+    "main.js": "/ReactLifecyle/static/js/main.713bc118.chunk.js",
+    "main.js.map": "/ReactLifecyle/static/js/main.713bc118.chunk.js.map",
+    "runtime-main.js": "/ReactLifecyle/static/js/runtime-main.7c7111ba.js",
+    "runtime-main.js.map": "/ReactLifecyle/static/js/runtime-main.7c7111ba.js.map",
+    "static/js/2.e942f79b.chunk.js": "/ReactLifecyle/static/js/2.e942f79b.chunk.js",
+    "static/js/2.e942f79b.chunk.js.map": "/ReactLifecyle/static/js/2.e942f79b.chunk.js.map",
+    "index.html": "/ReactLifecyle/index.html",
+    "precache-manifest.1f14b8f7c137170e9ca39884c33cd21c.js": "/ReactLifecyle/precache-manifest.1f14b8f7c137170e9ca39884c33cd21c.js",
+    "service-worker.js": "/ReactLifecyle/service-worker.js",
+    "static/css/main.266173d9.chunk.css.map": "/ReactLifecyle/static/css/main.266173d9.chunk.css.map",
+    "static/js/2.e942f79b.chunk.js.LICENSE.txt": "/ReactLifecyle/static/js/2.e942f79b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c7111ba.js",
+    "static/js/2.e942f79b.chunk.js",
+    "static/css/main.266173d9.chunk.css",
+    "static/js/main.713bc118.chunk.js"
+  ]
+}
